@@ -1,0 +1,102 @@
+{"event": "No API key found for provider: ANTHROPIC", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:17.532968Z"}
+{"event": "No API key found for provider: GROQ", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:17.533115Z"}
+{"event": "No API key found for provider: OPENROUTER", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:17.533153Z"}
+{"event": "No API key found for provider: XAI", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:17.533179Z"}
+{"event": "No API key found for provider: MORPH", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:17.533202Z"}
+{"event": "No API key found for provider: GEMINI", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:17.533224Z"}
+{"event": "Missing AWS credentials for Bedrock integration - access_key: False, secret_key: False, region: ", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 66, "timestamp": "2025-08-08T08:28:17.533249Z"}
+{"event": "No Daytona API key found in environment variables - sandbox features disabled", "level": "warning", "filename": "sandbox.py", "func_name": "<module>", "lineno": 21, "timestamp": "2025-08-08T08:28:21.287652Z"}
+{"event": "No Daytona API URL found in environment variables", "level": "warning", "filename": "sandbox.py", "func_name": "<module>", "lineno": 27, "timestamp": "2025-08-08T08:28:21.287746Z"}
+{"event": "No Daytona target found in environment variables", "level": "warning", "filename": "sandbox.py", "func_name": "<module>", "lineno": 32, "timestamp": "2025-08-08T08:28:21.287776Z"}
+MAILTRAP_API_TOKEN not found in environment variables
+{"event": "Starting server on 0.0.0.0:8000 with 4 workers", "level": "info", "filename": "api.py", "func_name": "<module>", "lineno": 236, "timestamp": "2025-08-08T08:28:22.941285Z"}
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started parent process [83819]
+{"event": "No API key found for provider: ANTHROPIC", "level": "warning", "func_name": "setup_api_keys", "lineno": 47, "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.544649Z"}
+{"event": "No API key found for provider: GROQ", "level": "warning", "func_name": "setup_api_keys", "lineno": 47, "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.544768Z"}
+{"event": "No API key found for provider: OPENROUTER", "level": "warning", "func_name": "setup_api_keys", "lineno": 47, "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.544817Z"}
+{"event": "No API key found for provider: XAI", "level": "warning", "func_name": "setup_api_keys", "lineno": 47, "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.544848Z"}
+{"event": "No API key found for provider: MORPH", "level": "warning", "func_name": "setup_api_keys", "lineno": 47, "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.544872Z"}
+{"event": "No API key found for provider: GEMINI", "level": "warning", "func_name": "setup_api_keys", "lineno": 47, "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.544901Z"}
+{"event": "Missing AWS credentials for Bedrock integration - access_key: False, secret_key: False, region: ", "level": "warning", "func_name": "setup_api_keys", "lineno": 66, "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.544924Z"}
+{"event": "No API key found for provider: ANTHROPIC", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.545223Z"}
+{"event": "No API key found for provider: GROQ", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.545291Z"}
+{"event": "No API key found for provider: OPENROUTER", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.545334Z"}
+{"event": "No API key found for provider: XAI", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.545379Z"}
+{"event": "No API key found for provider: MORPH", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.545403Z"}
+{"event": "No API key found for provider: GEMINI", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.545424Z"}
+{"event": "Missing AWS credentials for Bedrock integration - access_key: False, secret_key: False, region: ", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 66, "timestamp": "2025-08-08T08:28:25.545446Z"}
+{"event": "No API key found for provider: ANTHROPIC", "level": "warning", "lineno": 47, "func_name": "setup_api_keys", "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.547518Z"}
+{"event": "No API key found for provider: ANTHROPIC", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.547526Z"}
+{"event": "No API key found for provider: GROQ", "level": "warning", "lineno": 47, "func_name": "setup_api_keys", "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.547593Z"}
+{"event": "No API key found for provider: OPENROUTER", "level": "warning", "lineno": 47, "func_name": "setup_api_keys", "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.547667Z"}
+{"event": "No API key found for provider: XAI", "level": "warning", "lineno": 47, "func_name": "setup_api_keys", "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.547708Z"}
+{"event": "No API key found for provider: GROQ", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.547698Z"}
+{"event": "No API key found for provider: MORPH", "level": "warning", "lineno": 47, "func_name": "setup_api_keys", "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.547735Z"}
+{"event": "No API key found for provider: OPENROUTER", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.547766Z"}
+{"event": "No API key found for provider: GEMINI", "level": "warning", "lineno": 47, "func_name": "setup_api_keys", "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.547784Z"}
+{"event": "No API key found for provider: XAI", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.547804Z"}
+{"event": "Missing AWS credentials for Bedrock integration - access_key: False, secret_key: False, region: ", "level": "warning", "lineno": 66, "func_name": "setup_api_keys", "filename": "llm.py", "timestamp": "2025-08-08T08:28:25.547832Z"}
+{"event": "No API key found for provider: MORPH", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.547868Z"}
+{"event": "No API key found for provider: GEMINI", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 47, "timestamp": "2025-08-08T08:28:25.547942Z"}
+{"event": "Missing AWS credentials for Bedrock integration - access_key: False, secret_key: False, region: ", "level": "warning", "filename": "llm.py", "func_name": "setup_api_keys", "lineno": 66, "timestamp": "2025-08-08T08:28:25.547997Z"}
+{"event": "No Daytona API key found in environment variables - sandbox features disabled", "level": "warning", "lineno": 21, "func_name": "<module>", "filename": "sandbox.py", "timestamp": "2025-08-08T08:28:28.934489Z"}
+{"event": "No Daytona API URL found in environment variables", "level": "warning", "lineno": 27, "func_name": "<module>", "filename": "sandbox.py", "timestamp": "2025-08-08T08:28:28.934589Z"}
+{"event": "No Daytona target found in environment variables", "level": "warning", "lineno": 32, "func_name": "<module>", "filename": "sandbox.py", "timestamp": "2025-08-08T08:28:28.934625Z"}
+{"event": "No Daytona API key found in environment variables - sandbox features disabled", "level": "warning", "filename": "sandbox.py", "func_name": "<module>", "lineno": 21, "timestamp": "2025-08-08T08:28:28.934781Z"}
+{"event": "No Daytona API URL found in environment variables", "level": "warning", "filename": "sandbox.py", "func_name": "<module>", "lineno": 27, "timestamp": "2025-08-08T08:28:28.934878Z"}
+{"event": "No Daytona target found in environment variables", "level": "warning", "filename": "sandbox.py", "func_name": "<module>", "lineno": 32, "timestamp": "2025-08-08T08:28:28.934907Z"}
+{"event": "No Daytona API key found in environment variables - sandbox features disabled", "level": "warning", "func_name": "<module>", "lineno": 21, "filename": "sandbox.py", "timestamp": "2025-08-08T08:28:28.935210Z"}
+{"event": "No Daytona API URL found in environment variables", "level": "warning", "func_name": "<module>", "lineno": 27, "filename": "sandbox.py", "timestamp": "2025-08-08T08:28:28.935285Z"}
+{"event": "No Daytona target found in environment variables", "level": "warning", "func_name": "<module>", "lineno": 32, "filename": "sandbox.py", "timestamp": "2025-08-08T08:28:28.935317Z"}
+{"event": "No Daytona API key found in environment variables - sandbox features disabled", "level": "warning", "filename": "sandbox.py", "func_name": "<module>", "lineno": 21, "timestamp": "2025-08-08T08:28:28.982990Z"}
+{"event": "No Daytona API URL found in environment variables", "level": "warning", "filename": "sandbox.py", "func_name": "<module>", "lineno": 27, "timestamp": "2025-08-08T08:28:28.983100Z"}
+{"event": "No Daytona target found in environment variables", "level": "warning", "filename": "sandbox.py", "func_name": "<module>", "lineno": 32, "timestamp": "2025-08-08T08:28:28.983144Z"}
+MAILTRAP_API_TOKEN not found in environment variables
+MAILTRAP_API_TOKEN not found in environment variables
+MAILTRAP_API_TOKEN not found in environment variables
+MAILTRAP_API_TOKEN not found in environment variables
+INFO:     Started server process [83880]
+INFO:     Waiting for application startup.
+{"event": "Starting up FastAPI application with instance ID: single in local mode", "level": "info", "filename": "api.py", "func_name": "lifespan", "lineno": 47, "timestamp": "2025-08-08T08:28:30.381349Z"}
+INFO:     Started server process [83879]
+INFO:     Waiting for application startup.
+{"event": "Starting up FastAPI application with instance ID: single in local mode", "level": "info", "func_name": "lifespan", "lineno": 47, "filename": "api.py", "timestamp": "2025-08-08T08:28:30.386487Z"}
+INFO:     Started server process [83878]
+INFO:     Waiting for application startup.
+{"event": "Starting up FastAPI application with instance ID: single in local mode", "level": "info", "lineno": 47, "func_name": "lifespan", "filename": "api.py", "timestamp": "2025-08-08T08:28:30.389043Z"}
+{"event": "Versioning API initialized", "level": "info", "filename": "api.py", "func_name": "initialize", "lineno": 225, "timestamp": "2025-08-08T08:28:30.391150Z"}
+{"event": "Initialized agent API with instance ID: single", "level": "info", "filename": "api.py", "func_name": "initialize", "lineno": 189, "timestamp": "2025-08-08T08:28:30.391222Z"}
+{"event": "Initialized sandbox API with database connection", "level": "info", "filename": "api.py", "func_name": "initialize", "lineno": 23, "timestamp": "2025-08-08T08:28:30.391252Z"}
+{"event": "Initializing Redis connection", "level": "info", "filename": "redis.py", "func_name": "initialize_async", "lineno": 65, "timestamp": "2025-08-08T08:28:30.391285Z"}
+INFO:     Started server process [83881]
+INFO:     Waiting for application startup.
+{"event": "Starting up FastAPI application with instance ID: single in local mode", "level": "info", "filename": "api.py", "func_name": "lifespan", "lineno": 47, "timestamp": "2025-08-08T08:28:30.394333Z"}
+{"event": "Initializing Redis connection pool to localhost:6379 with max 128 connections", "level": "info", "filename": "redis.py", "func_name": "initialize", "lineno": 37, "timestamp": "2025-08-08T08:28:30.394597Z"}
+{"event": "Versioning API initialized", "level": "info", "func_name": "initialize", "lineno": 225, "filename": "api.py", "timestamp": "2025-08-08T08:28:30.395175Z"}
+{"event": "Initialized agent API with instance ID: single", "level": "info", "func_name": "initialize", "lineno": 189, "filename": "api.py", "timestamp": "2025-08-08T08:28:30.395230Z"}
+{"event": "Initialized sandbox API with database connection", "level": "info", "func_name": "initialize", "lineno": 23, "filename": "api.py", "timestamp": "2025-08-08T08:28:30.395259Z"}
+{"event": "Initializing Redis connection", "level": "info", "func_name": "initialize_async", "lineno": 65, "filename": "redis.py", "timestamp": "2025-08-08T08:28:30.395291Z"}
+{"event": "Versioning API initialized", "level": "info", "lineno": 225, "func_name": "initialize", "filename": "api.py", "timestamp": "2025-08-08T08:28:30.397072Z"}
+{"event": "Initialized agent API with instance ID: single", "level": "info", "lineno": 189, "func_name": "initialize", "filename": "api.py", "timestamp": "2025-08-08T08:28:30.397143Z"}
+{"event": "Initialized sandbox API with database connection", "level": "info", "lineno": 23, "func_name": "initialize", "filename": "api.py", "timestamp": "2025-08-08T08:28:30.397171Z"}
+{"event": "Initializing Redis connection", "level": "info", "lineno": 65, "func_name": "initialize_async", "filename": "redis.py", "timestamp": "2025-08-08T08:28:30.397201Z"}
+{"event": "Initializing Redis connection pool to localhost:6379 with max 128 connections", "level": "info", "lineno": 37, "func_name": "initialize", "filename": "redis.py", "timestamp": "2025-08-08T08:28:30.401794Z"}
+{"event": "Initializing Redis connection pool to localhost:6379 with max 128 connections", "level": "info", "func_name": "initialize", "lineno": 37, "filename": "redis.py", "timestamp": "2025-08-08T08:28:30.401879Z"}
+{"event": "Successfully connected to Redis", "level": "info", "filename": "redis.py", "func_name": "initialize_async", "lineno": 71, "timestamp": "2025-08-08T08:28:30.403318Z"}
+{"event": "Redis connection initialized successfully", "level": "info", "filename": "api.py", "func_name": "lifespan", "lineno": 64, "timestamp": "2025-08-08T08:28:30.403386Z"}
+INFO:     Application startup complete.
+{"event": "Successfully connected to Redis", "level": "info", "func_name": "initialize_async", "lineno": 71, "filename": "redis.py", "timestamp": "2025-08-08T08:28:30.405783Z"}
+{"event": "Successfully connected to Redis", "level": "info", "lineno": 71, "func_name": "initialize_async", "filename": "redis.py", "timestamp": "2025-08-08T08:28:30.405809Z"}
+{"event": "Redis connection initialized successfully", "level": "info", "func_name": "lifespan", "lineno": 64, "filename": "api.py", "timestamp": "2025-08-08T08:28:30.405844Z"}
+{"event": "Redis connection initialized successfully", "level": "info", "lineno": 64, "func_name": "lifespan", "filename": "api.py", "timestamp": "2025-08-08T08:28:30.405859Z"}
+{"event": "Versioning API initialized", "level": "info", "filename": "api.py", "func_name": "initialize", "lineno": 225, "timestamp": "2025-08-08T08:28:30.405841Z"}
+{"event": "Initialized agent API with instance ID: single", "level": "info", "filename": "api.py", "func_name": "initialize", "lineno": 189, "timestamp": "2025-08-08T08:28:30.405933Z"}
+{"event": "Initialized sandbox API with database connection", "level": "info", "filename": "api.py", "func_name": "initialize", "lineno": 23, "timestamp": "2025-08-08T08:28:30.405982Z"}
+{"event": "Initializing Redis connection", "level": "info", "filename": "redis.py", "func_name": "initialize_async", "lineno": 65, "timestamp": "2025-08-08T08:28:30.406017Z"}
+INFO:     Application startup complete.
+INFO:     Application startup complete.
+{"event": "Initializing Redis connection pool to localhost:6379 with max 128 connections", "level": "info", "filename": "redis.py", "func_name": "initialize", "lineno": 37, "timestamp": "2025-08-08T08:28:30.409521Z"}
+{"event": "Successfully connected to Redis", "level": "info", "filename": "redis.py", "func_name": "initialize_async", "lineno": 71, "timestamp": "2025-08-08T08:28:30.413981Z"}
+{"event": "Redis connection initialized successfully", "level": "info", "filename": "api.py", "func_name": "lifespan", "lineno": 64, "timestamp": "2025-08-08T08:28:30.414047Z"}
+INFO:     Application startup complete.
